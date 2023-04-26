@@ -1,4 +1,7 @@
-package practice.java;
+// Java program to find second last occurence of accepted character from user accepted string
+
+
+package practice.java;      
 
 import java.util.Scanner;
 
