@@ -1,7 +1,7 @@
 package p1;
 
 import java.util.Scanner;
-//import ALL static members of the System class
+//import all static members of the System class
 import static java.lang.System.*;
 import static java.lang.Math.sqrt;
 
